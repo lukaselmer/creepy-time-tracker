@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "noEmitHelpers": true,
+    "noImplicitAny": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "skipLibCheck": false,
+    "types": [
+      "core-js",
+      "node",
+      "protractor",
+      "selenium-webdriver",
+      "firebase"
+    ]
+  },
+  "compileOnSave": true,
+  "buildOnSave": true
+}
